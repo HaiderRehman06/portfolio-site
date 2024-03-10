@@ -1,10 +1,5 @@
-body{
-    background-image: url(./backgroundpic.jpg);
-    background-position: center;
-    background-size:cover ;
-    background-repeat: no-repeat;
-    background-blend-mode: color;
-}
+
+
 a{
     text-decoration: none;
     margin: 4px;
